@@ -24,6 +24,7 @@
     <ProjectGuid>{479d8241-679a-4f5b-884a-df0703c181d2}</ProjectGuid>
     <RootNamespace>แยกตวประกอบ</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Factoring</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
