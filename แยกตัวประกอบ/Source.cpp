@@ -1,10 +1,10 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include <conio.h>
 
-//แก้ไขครั้งที่ 1    26/08/2563   เวลา  23:39 
+//edit 1    26/08/2563  23:39 
+//edit 2     2/09/2569  16:41
 int main() {
-    int k;
+    long int k;
     int x = 2;
     printf("Input Number : ");
     scanf("%d", &k);
