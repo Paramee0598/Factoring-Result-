@@ -1,4 +1,3 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 //edit 1    26/08/2563  23:39 
@@ -7,7 +6,7 @@ int main() {
     long int k;
     int x = 2;
     printf("Input Number : ");
-    scanf("%d", &k);
+    scanf_s("%d", &k);
     printf("Factoring Result : ");
     while (k == 1) {
         printf("%d\n", k);
